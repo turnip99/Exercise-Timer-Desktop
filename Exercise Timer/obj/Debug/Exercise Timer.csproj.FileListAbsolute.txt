@@ -1,0 +1,22 @@
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\bin\Debug\Exercise Timer.exe.config
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\bin\Debug\Exercise Timer.exe
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\bin\Debug\Exercise Timer.pdb
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\Exercise Timer.csprojResolveAssemblyReference.cache
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\GenerateWindow.g.cs
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\MainWindow.g.cs
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\ManageWindow.g.cs
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\RunWindow.g.cs
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\TimerWindow.g.cs
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\App.g.cs
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\Exercise Timer_MarkupCompile.cache
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\Exercise Timer_MarkupCompile.lref
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\GenerateWindow.baml
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\MainWindow.baml
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\ManageWindow.baml
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\RunWindow.baml
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\TimerWindow.baml
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\Exercise Timer.g.resources
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\Exercise_Timer.Properties.Resources.resources
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\Exercise Timer.csproj.GenerateResource.Cache
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\Exercise Timer.exe
+C:\Users\turni\Documents\Exercise Timer\Exercise Timer\obj\Debug\Exercise Timer.pdb

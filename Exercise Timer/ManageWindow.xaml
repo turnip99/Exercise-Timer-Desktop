@@ -1,0 +1,13 @@
+﻿<Window x:Class="Exercise_Timer.ManageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise_Timer"
+        mc:Ignorable="d"
+        Title="Manage Exercises" Height="710" Width="900" Background="Red" ResizeMode="NoResize">
+    <Grid>
+        <Button Name="ButtonSave" Width="150" Height="50" FontSize="20" Margin="0, 5" Background="Goldenrod" FontWeight="DemiBold" VerticalAlignment="Top">Save Changes</Button>
+        <DataGrid Name="ExerciseGrid" Margin="0,60" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top"></DataGrid>
+    </Grid>
+</Window>
